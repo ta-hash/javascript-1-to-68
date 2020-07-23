@@ -1,0 +1,16 @@
+h1{
+    display: inline;
+}
+table{
+	margin-top: 50px;
+	text-align: center;
+	
+}
+
+#show th, #show td{
+	padding: 13px;
+}
+
+#btna td input{
+	width: 100%;
+} 
